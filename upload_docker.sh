@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath="bansaripatel/firstmicroservicebuild"
+dockerpath="firstmicroservicebuild"
 
 # Step 2:  
 # Authenticate & tag
