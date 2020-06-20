@@ -7,7 +7,7 @@ jobs:
   build:
     docker:
     # Use the same Docker base as the project
-      - image: python:3.6.10-stretch
+      - image: python:3.7.3-stretch
 
     working_directory: ~/Machine_Learning_Microservice_API
 
