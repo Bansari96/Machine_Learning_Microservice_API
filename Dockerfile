@@ -1,4 +1,4 @@
-FROM python:3.6.10-stretch
+FROM python:3.7.3-stretch
 
 ## Step 1:
 # Create a working directory
