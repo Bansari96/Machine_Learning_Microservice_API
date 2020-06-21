@@ -1,4 +1,4 @@
-<h3><b>Machine Learning Microservice API Project</b></h3>
+<h2><b>Machine Learning Microservice API Project</b></h2>
 
 <include a CircleCI status badge, here>
 
