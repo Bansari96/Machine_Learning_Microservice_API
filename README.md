@@ -1,8 +1,8 @@
 <h2><b>Machine Learning Microservice API Project</b></h2>
 
 <h4><b>Circleci status badge:</b></h4>
-(https://circleci.com/gh/Bansari96/Machine_Learning_Microservice_API.svg?style=svg)
-
+https://circleci.com/gh/Bansari96/Machine_Learning_Microservice_API.svg?style=svg
+[the data source site](https://circleci.com/gh/Bansari96/Machine_Learning_Microservice_API.svg?style=svg)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
@@ -19,10 +19,6 @@ Your project goal is to operationalize this working, machine learning microservi
 * Configure Kubernetes and create a Kubernetes cluster
 * Deploy a container using Kubernetes and make a prediction
 * Upload a complete Github repo with CircleCI to indicate that your code has been tested
-
-You can find a detailed [project rubric, here](https://review.udacity.com/#!/rubrics/2576/view).
-
-**The final implementation of the project will showcase your abilities to operationalize production microservices.**
 
 ---
 
