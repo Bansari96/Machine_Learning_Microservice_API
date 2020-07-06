@@ -2,7 +2,7 @@
 
 <h4><b>Circleci status badge:</b></h4>
 https://circleci.com/gh/Bansari96/Machine_Learning_Microservice_API.svg?style=svg
-[the data source site](https://circleci.com/gh/Bansari96/Machine_Learning_Microservice_API.svg?style=svg)
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
