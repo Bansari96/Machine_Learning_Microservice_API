@@ -1,7 +1,7 @@
 <h2><b>Machine Learning Microservice API Project</b></h2>
 
 <h4><b>Circleci status badge:</b></h4>
-[![CircleCI](https://circleci.com/gh/Bansari96/Machine_Learning_Microservice_API.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![CircleCI](https://circleci.com/gh/Bansari96/Machine_Learning_Microservice_API.svg?style=svg)]
 ##[CircleCI](<https://circleci.com/gh/Bansari96/Machine_Learning_Microservice_API.svg?style=svg>)
 
 ## Project Overview
